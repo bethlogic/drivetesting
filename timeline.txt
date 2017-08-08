@@ -1,0 +1,67 @@
+Gmail
+0404	Open Inbox
+0404	Open 1 email
+0405	Open the "Social" tab
+0407	Open the "Promos" tab
+0407	Archive several emails
+0408	Search for "bbq", view 4 pages
+0410	View another email
+0410	Reply to that email
+0411	Compose an email, starting from an email
+	Type on and off for a few minutes
+0415	Compose an email from the Inbox
+0416	Look at Settings, turn on Inbox
+
+Search
+0416	Search for "gmail turn on inbox"	
+
+Inbox
+0417	Open Inbox
+0418    View "Social" bundle
+0418	Mark the "Social" bundle as "Done"
+0419	Search for "Camfrog"
+0420	Mark an email as Done
+0421	Reply to an Email
+0422	Create a reminder
+0423	Compose an email, add attachment
+
+Google+
+0424	View Google+
+0424	View a Community
+0425	View Google+ feed
+0425	View a Collection
+
+Drive
+0426	Open Drive
+0430	Change the sharing settings -- Turn off "Anyone with the Link"
+0431	Open a Document
+0432	Create a new Document
+0432	Edit that Document
+0432	Download the Doc as a PDF
+0433	Upload an image to the Doc
+0434	Print the Doc
+0436	Open a Folder
+0436	Copy a Doc from the Drive Folder
+0438	Open a Spreadsheet, look at multiple tabs
+0438	Open a PDF in a new Window
+0439	Open a Presentation, look at slides
+0941	Search for "bbq"
+
+Calendar
+0945	Open Calendar
+	Change to Month view
+	Move to August
+	Move to September
+	Move to October
+	Move to November
+	View an event as popup
+	Copy the event
+	Move to Today
+0946	Create a new event
+0947	Edit the event
+
+Photos
+0448	View Photos
+	Upload 4 Photos
+	Create an album from 2
+	Share the album
